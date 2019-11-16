@@ -8,7 +8,7 @@ import java.util.Random;
 
 /**
  * Created by infuntis on 15/01/17.
- * upgrade by Arsen64
+ * upgrade by Ars4Mars
  * what i upgrade - now this game dont have borders and when snake move out of game field snake teleporting to opposite side
  */
 public class GameField extends JPanel implements ActionListener{
